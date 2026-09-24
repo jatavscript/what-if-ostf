@@ -130,8 +130,8 @@ The simulator uses standard university grading boundaries (configurable via side
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/internal-marks-what-if-simulator.git
-cd internal-marks-what-if-simulator
+git clone https://github.com/jatavscript/what-if-ostf.git
+cd what-if-ostf
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -186,8 +186,9 @@ The application will start and open automatically in your browser at:
 
 * **Project Title**: Internal Marks "What-If" Simulator
 * **Developed For**: MCA Academic Mini-Project Demonstration & Evaluation
-* **Developer**: Ajay Jatav
+* **Developer**: Ajay Jatav ([@jatavscript](https://github.com/jatavscript))
 * **Email**: [ajayjatav6282@gmail.com](mailto:ajayjatav6282@gmail.com)
+* **GitHub Repository**: [what-if-ostf](https://github.com/jatavscript/what-if-ostf)
 
 ---
 
